@@ -9,6 +9,6 @@ list of fruits and random choice
 
 Project Title: Hangman
 
-Milestone 4 tasks completed.
+Milestone 4 and 5 tasks completed.
 
 the project asks input from user and verifies against the random choice from the list. 
