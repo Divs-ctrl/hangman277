@@ -6,3 +6,9 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 list of fruits and random choice
 
 
+
+Project Title: Hangman
+
+Milestone 4 tasks completed.
+
+the project asks input from user and verifies against the random choice from the list. 
